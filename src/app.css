@@ -1,0 +1,9 @@
+@import "@ionic/core/css/ionic.bundle.css";
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/* Uncomment below to make the app visible */
+/* https://github.com/ionic-team/ionic-framework/pull/22863/files#r590729117 */
+
+html:not(.hydrated) body {
+  display: block !important;
+}
